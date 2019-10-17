@@ -1,0 +1,13 @@
+body {
+  background-image: url('../img/accueil.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
